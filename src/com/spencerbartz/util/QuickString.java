@@ -1,4 +1,4 @@
-package com.spencerbartz.jdatastructures;
+package com.spencerbartz.util;
 
 import com.spencerbartz.jdatastructures.DynamicArray;
 
